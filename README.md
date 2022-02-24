@@ -1,5 +1,5 @@
 # AIFFEL_EXPLORATION
-## This repository contains toy projects done while studying in AIFFEL program
+##### This repository contains toy projects done while studying in AIFFEL program
 
 
 
